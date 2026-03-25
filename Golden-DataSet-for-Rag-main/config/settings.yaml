@@ -1,0 +1,15 @@
+llm:
+  provider: openrouter
+  api_key: api_key_here
+  base_url: https://openrouter.ai/api/v1
+  model: openai/gpt-4o-mini
+
+embedding_model: all-MiniLM-L6-v2
+
+chunk_size: 300
+chunk_overlap: 50
+
+top_k: 5
+rerank_top_n: 3
+
+collection_name: youtube_rag

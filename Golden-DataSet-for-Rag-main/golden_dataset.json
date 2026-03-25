@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is the role of weights in neural networks?",
+    "answer": "Weights determine the strength of connections between neurons."
+  },
+  {
+    "question": "Why are activation functions important?",
+    "answer": "They introduce non-linearity."
+  }
+]
